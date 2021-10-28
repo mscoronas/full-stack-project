@@ -28,6 +28,7 @@ DEBUG = True
 
 ALLOWED_HOSTS = ['https://mscoronas-full-stack.herokuapp.com/']
 
+
 # Application definition
 
 INSTALLED_APPS = [
